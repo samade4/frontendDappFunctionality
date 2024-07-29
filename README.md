@@ -31,4 +31,4 @@ This project is licensed under the MIT License. See the `LICENSE.md` file for de
 
 ## Video-link
 
-Video walk through can be found at: https://www.loom.com/share/5c8a17d12fef4a2ea670accd49c49f62?sid=6ec0e064-d68a-4d74-8143-35aeea7cdd15
+Video walk through can be found at: https://www.loom.com/share/5bdbac606468461a8cc75ed135480f50?sid=6c6e5a15-da8f-42a3-83bb-9439089ce40b
